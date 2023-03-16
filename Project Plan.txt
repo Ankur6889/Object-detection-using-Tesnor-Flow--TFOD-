@@ -1,0 +1,8 @@
+1. Installation and Setup 
+2. Collection of Images and Labels 
+3.Training Models 
+4. Detecting Object 
+5. Freezing and Conversion 
+6.Performance Tuning 
+7. Training on Colab 
+8. Projects 
